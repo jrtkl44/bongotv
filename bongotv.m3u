@@ -8,7 +8,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://alqurans.com/img/peace_tv_bangla.png" group-title="Islamic",Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="SPORTS",T Sports
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/7/3/073f6e27b3a16c3acf96695598baeed8_icon.png" group-title="SPORTS",WATAN HD
 https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/947861.jpg" group-title="SPORTS",Star Sports 1 Hindi(link-1)
@@ -65,9 +65,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",SRK TV
+#EXTINF:-1 tvg-logo="https://srktvplus.com/wp-content/uploads/elementor/thumbs/SRK-TV-plus-Logo-17MAR25-r3599ir9na5ybl8f1lcdpofzlufod567se6fvzouym.png" group-title="Kids",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Moto Patlu
+#EXTINF:-1 tvg-id="edge3/cartoon-network-hd" tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="kids",Cartoon Network Hd
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3JrLWhk&e=.m3u8
+#EXTINF:-1 tvg-id="edge3/cartoon-network" tvg-logo="https://tvassets.roarzone.info/images/cartoon-network.webp" group-title="kids",Cartoon Network
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Motu_Patlu.Jpg/250px-Motu_Patlu.Jpg" group-title="Kids",Moto Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Kid Screation
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
@@ -80,19 +84,19 @@ http://116.90.120.151:8000/play/a0hj/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png" group-title="Kids",Sonic
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/120px-Discovery_HD.svg.png" group-title="Documentary",Discovery Engliah HD
-http://103.229.254.25:7001/play/a03g/index.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Discovery_Science_Canada_2011.PNG/250px-Discovery_Science_Canada_2011.PNG" group-title="Documentary",Discovery Science
-http://103.229.254.25:7001/play/a03h/index.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic
 http://116.90.120.151:8000/play/a0in/index.m3u8
 #EXTINF:-1 tvg-logo="https://intvschedule.com/wp-content/uploads/2025/09/Star-Jalsha.webp" group-title="Indian-Bangla",Star Jalsha
-http://103.182.170.32:8888/play/a048
+https://edge2.roarzone.info:8447/roarzone/edge2/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_jalsha_movies_in.png" group-title="Indian-Bangla",Jalsha Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvamFsc2hhLW1vdmllcw==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
-http://103.180.212.191:3500/live/756.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge2/colors/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian-Bangla",Sony Aath
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-logo="https://c.kmpr.in/assets/tv_channels_150/5224.jpg" group-title="MUSIC",Sangeet Bangla
