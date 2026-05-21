@@ -43,7 +43,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png" group-title="BANGLA",GTV 1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSe5XaSGCnrIEkCltc_KPvE7C-Hzc9qA6FOGu-RFOIWx4gM4CaEtPAetDTvtNannLiMKVgGC08X2_0JgMOsXPAi_a7GPindWf0simDwAqI0NEEa_8uJj-aVXjs4gUtn_HfOFJvpIV55rIy/w250-h320/gtv.jpg" group-title="BANGLA",GTV
 http://103.175.242.10:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/067/565/456/non_2x/al-jazeera-news-app-logo-rounded-free-png.png" group-title="English News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
@@ -73,9 +73,9 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://srktvplus.com/wp-content/uploads/elementor/thumbs/SRK-TV-plus-Logo-17MAR25-r3599ir9na5ybl8f1lcdpofzlufod567se6fvzouym.png" group-title="Kids",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="edge3/cartoon-network-hd" tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="kids",Cartoon Network Hd
+#EXTINF:-1 tvg-id="edge3/cartoon-network-hd" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo-500x375.jpg" group-title="kids",Cartoon Network Hd
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3JrLWhk&e=.m3u8
-#EXTINF:-1 tvg-id="edge3/cartoon-network" tvg-logo="https://tvassets.roarzone.info/images/cartoon-network.webp" group-title="kids",Cartoon Network
+#EXTINF:-1 tvg-id="edge3/cartoon-network" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo-500x375.jpg" group-title="kids",Cartoon Network
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Motu_Patlu.Jpg/250px-Motu_Patlu.Jpg" group-title="Kids",Moto Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
