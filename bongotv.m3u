@@ -7,7 +7,7 @@ https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream/1/
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://alqurans.com/img/peace_tv_bangla.png" group-title="Islamic",Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/uefa-champions-league-1.svg" group-title="SPORTS", football
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/uefa-champions-league-1.svg" group-title="SPORTS", Football
 http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/t-sports-logo-png_seeklogo-640172.png" group-title="SPORTS",T Sports
 http://100.64.32.2:8080/wetvlink/wetvlink/161.m3u8
